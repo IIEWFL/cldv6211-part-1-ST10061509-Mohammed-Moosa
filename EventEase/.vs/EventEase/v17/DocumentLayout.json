@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|c:\\users\\shani\\onedrive\\desktop\\cldv6211-part-1-st10061509-mohammed-moosa\\eventease\\eventease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABF946F-7227-40A6-8B73-62034B1005DA}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Event.cs",
+              "RelativeToolTip": "EventEase\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:33:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Program.cs",
+              "RelativeDocumentMoniker": "EventEase\\Program.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Program.cs",
+              "RelativeToolTip": "EventEase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:47:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Booking.cs",
+              "RelativeToolTip": "EventEase\\Models\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:33:52.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Models\\Venue.cs",
+              "RelativeToolTip": "EventEase\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:32:17.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T07:35:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:40:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventEase\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventEase\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:46:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T08:34:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:49:36.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "EventEase\\appsettings.json",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\appsettings.json",
+              "RelativeToolTip": "EventEase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T07:44:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:30:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\shani\\OneDrive\\Desktop\\cldv6211-part-1-ST10061509-Mohammed-Moosa\\EventEase\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:00:58.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
